@@ -1,0 +1,3 @@
+Első parancssoros szövegem
+Második parancssoros szövegem
+Harmadik parancssoros szövegem
